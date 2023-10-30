@@ -1,0 +1,11 @@
+# For local deployment test
+
+version: '3'
+services:
+  vid-server:
+    build: .
+    volumes:
+      - ./video_data.json:/app/video_data.json
+    ports:
+      - "18000:8000"
+
