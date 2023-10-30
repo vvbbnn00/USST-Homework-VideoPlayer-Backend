@@ -10,7 +10,7 @@ VIDEO_AMOUNT = 5
 
 
 def loadVideos():
-    data = json.load(open(DATABASE_FILE, "r"))
+    data = json.load(open(DATABASE_FILE, "r", encoding="utf-8"))
     for video in data:
         VIDEO_DATABASE.append(VideoData(**video))
 
