@@ -6,7 +6,7 @@ from models import VideoData, VideoResponseModel, BasicResponseModel
 
 VIDEO_DATABASE = []
 DATABASE_FILE = "video_data.json"
-VIDEO_AMOUNT = 5
+VIDEO_AMOUNT = 3
 
 
 def loadVideos():
