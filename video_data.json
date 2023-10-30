@@ -4,5 +4,23 @@
     "title": "Eden - Opening Movie",
     "url": "https://naruse.io/api/raw/?path=/%F0%9F%93%BA%20Bangumi/eden-%20Opening%20Movie.mp4",
     "cover": "https://naruse.io/api/thumbnail/?path=/%F0%9F%93%BA%20Bangumi/eden-%20Opening%20Movie.mp4&size=medium"
+  },
+  {
+    "vidId": "vid-002",
+    "title": "ef - a tale of memories OP1",
+    "url": "https://naruse.io/api/raw/?path=/%F0%9F%93%BA%20Bangumi/%E3%80%8A%E6%82%A0%E4%B9%85%E4%B9%8B%E7%BF%BC%E3%80%8BOP1.mp4",
+    "cover": "https://naruse.io/api/thumbnail/?path=/%F0%9F%93%BA%20Bangumi/%E3%80%8A%E6%82%A0%E4%B9%85%E4%B9%8B%E7%BF%BC%E3%80%8BOP1.mp4&size=medium"
+  },
+  {
+    "vidId": "vid-003",
+    "title": "サクラノ詩 - 櫻の森の上を舞う- OP",
+    "url": "https://naruse.io/api/raw/?path=/%F0%9F%93%BA%20Bangumi/%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%8E%E8%A9%A9%20-%E6%AB%BB%E3%81%AE%E6%A3%AE%E3%81%AE%E4%B8%8A%E3%82%92%E8%88%9E%E3%81%86-%20OP%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E3%80%90%E6%9E%95%E3%80%91.mp4",
+    "cover": "https://naruse.io/api/thumbnail/?path=/%F0%9F%93%BA%20Bangumi/%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%8E%E8%A9%A9%20-%E6%AB%BB%E3%81%AE%E6%A3%AE%E3%81%AE%E4%B8%8A%E3%82%92%E8%88%9E%E3%81%86-%20OP%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC%E3%80%90%E6%9E%95%E3%80%91.mp4&size=medium"
+  },
+  {
+    "vidId": "vid-004",
+    "title": "Subarashiki Hibi ~Furenzoku Sonzai~ Opening",
+    "url": "https://naruse.io/api/raw/?path=/%F0%9F%93%BA%20Bangumi/Subarashiki%20Hibi%20~Furenzoku%20Sonzai~%20Opening.mp4",
+    "cover": "https://naruse.io/api/thumbnail/?path=/%F0%9F%93%BA%20Bangumi/Subarashiki%20Hibi%20~Furenzoku%20Sonzai~%20Opening.mp4&size=medium"
   }
 ]
